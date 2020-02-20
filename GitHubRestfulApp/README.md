@@ -1,0 +1,1 @@
+Only left adding acceptance test (integration test) plus add some Unit Test to check methods. Additionally, there is always a way to beautify code for example removing repeated A-Z alphabet. As well worth to consider to add Interfaces to make it more SOLID., but for perspective of this short project I have left it how it is.
